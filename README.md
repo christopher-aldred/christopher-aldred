@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🌱 I’m experimenting with **Next JS & Tina CMS**
+- 🌱 I’m experimenting with **Astro & Decap CMS**
 
 - 💬 Ask me about **React, Typescript, Java, Spring**
 
