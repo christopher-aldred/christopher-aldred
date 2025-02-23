@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Chris Aldred</h1>
-<h3 align="center">A full-time web dev and all-round dork. When I'm not in-front of my laptop I like to get out to the mountains, but the only things you'll here are my awesome dev projects.</h3>
+<h3 align="center">Im an enthusiastic technical professional with strong problem-solving ability. BSc (Hon) MBCS.</h3>
 
 <br/>
 
